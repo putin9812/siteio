@@ -6,9 +6,6 @@
 		<loc>https://tatkalsoftware.io/sikka.html</loc>
 	</url>
 	<url>
-		<loc>https://tatkalsoftware.io/bigboss.html</loc>
-	</url>
-	<url>
 		<loc>https://tatkalsoftware.io/npro.html</loc>
 	</url>
 	<url>
@@ -40,5 +37,8 @@
 	</url>
 	<url>
 		<loc>https://tatkalsoftware.io/Declaimer.html</loc>
+	</url>
+	<url>
+		<loc>https://tatkalsoftware.io/covid19.html</loc>
 	</url>
 </urlset>
